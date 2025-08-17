@@ -1,4 +1,4 @@
-import MIL.Common
+import Chapters.Common
 
 open Nat
 

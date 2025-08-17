@@ -1,5 +1,5 @@
 name = "mil"
-defaultTargets = ["MIL"]
+defaultTargets = ["Chapters"]
 
 [leanOptions]
 pp.unicode.fun = true # pretty-prints `fun a ↦ b`
